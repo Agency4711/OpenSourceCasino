@@ -13,9 +13,9 @@
   "dependencies": {
     "@tailwindcss/typography": "^0.5.8",
     "@vitejs/plugin-vue": "^3.2.0",
-    "daisyui": "^2.38.1",
-    "jsdom": "^21.1.0",
-    "vue": "^3.2.38",
+    "daisyui": "^4.0.0",
+    "jsdom": "^24.1.1",
+    "vue": "^3.3.5",
     "vue-router": "^4.1.5"
   },
   "devDependencies": {
